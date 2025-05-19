@@ -14,7 +14,7 @@
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/md.munna.480335" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
   <a href="https://wa.me/yourwhatsapplink" target="_blank">
@@ -93,23 +93,33 @@
 
 ###
 
+<h3 align="left">📊 GitHub Contribution Graph</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MunnaDevPro&theme=react-dark&area=true&hide_border=true&custom_title=🔥%20My%20GitHub%20Activity" width="95%" alt="GitHub Contribution Graph"/>
+</div>
+
+###
+
 <h3 align="left">🔥 My Stats</h3>
 
 ###
 
 <div align="center">
+
+  <!-- GitHub Stats - Stylish -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MunnaDevPro&show_icons=true&hide=prs&hide_title=true&theme=radical&bg_color=0d1117&border_color=444c56&title_color=58a6ff&icon_color=58a6ff&text_color=9f9f9f&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="Munna's GitHub Stats"/>
+
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=MunnaDevPro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="GitHub Streak" />
-
-  <!-- GitHub Stats -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MunnaDevPro&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunnaDevPro&layout=compact&theme=dark&hide_border=false" height="200" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=MunnaDevPro&theme=highcontrast&hide_border=false&background=0D1117&ring=7CFC00&fire=7CFC00&currStreakLabel=7CFC00" width="48%" alt="GitHub Streak" />
 
   <!-- GitHub Trophy -->
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=MunnaDevPro&theme=onedark&no-frame=true&row=1&column=7" height="120" alt="GitHub Trophy" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=MunnaDevPro&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+
+  <!-- Top Languages -->
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunnaDevPro&layout=compact&theme=radical&bg_color=0d1117&border_color=444c56&title_color=58a6ff&text_color=9f9f9f&hide_border=false" width="40%" alt="Top Languages" />
+
 </div>
+
